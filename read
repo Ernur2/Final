@@ -1,0 +1,16 @@
+banking-system/
+├── pom.xml
+├── src/
+│   └── main/
+│       └── java/
+│           └── com/
+│               └── bank/
+│                   ├── App.java
+│                   ├── database/
+│                   │   └── DatabaseConnection.java
+│                   ├── model/
+│                   │   ├── Customer.java
+│                   │   └── Account.java
+│                   └── service/
+│                       └── BankService.java
+└── database.sql

@@ -1,0 +1,10 @@
+com\bank\App.class
+com\bank\service\AuthService.class
+com\bank\model\AuditLog.class
+com\bank\model\Account.class
+com\bank\model\AccountRequest.class
+com\bank\service\BankService.class
+com\bank\model\User.class
+com\bank\database\DatabaseConnection.class
+com\bank\model\Customer.class
+com\bank\model\Transaction.class
